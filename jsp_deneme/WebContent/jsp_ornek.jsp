@@ -8,6 +8,7 @@
 <title>Ornek</title>
 </head>
 <body>
+	<%! LocalTime time3 = LocalTime.now(); %>
   <%! LocalTime time1 = LocalTime.now(); %>
   <% LocalTime time2 = LocalTime.now(); %>
 
